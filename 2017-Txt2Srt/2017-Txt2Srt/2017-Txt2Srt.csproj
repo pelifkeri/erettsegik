@@ -6,4 +6,10 @@
     <RootNamespace>_2017_Txt2Srt</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="feliratok.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
